@@ -1,0 +1,7 @@
+BuildConfig.java
+MainActivity.java
+MainActivityAlias.java
+NotificationService.java
+ReceiveSms.java
+SendSms.java
+./node_modules/
